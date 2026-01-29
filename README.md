@@ -5,6 +5,6 @@ The file is in an archive cause the original file is larger than 25 MB.
 
 **Checksums**
 
-|File|MD5|Sha3-256|
-| :--- | :--- | :--- |
-|EX400-X-GNX-4.3.6.190-R-240426_2025.y3|be48f301436754fa91ad4461f0c7b1ec|6ea58af3fd7d563788dcba93b116f44ba69ba91002fbb7dc1d6f10e7466fe72e|
+|File|MD5|SHA1|SHA-256|
+| :--- | :--- | :--- | :--- |
+|EX400-X-GNX-4.3.6.190-R-240426_2025.y3|be48f301436754fa91ad4461f0c7b1ec|647687369aef2bc79ab08f1e21a7fc59461608bc|455c5cc478900d9c9a344d98d4b4487a2ab5c129fe1b20309b3c0d49cd1c8227|
